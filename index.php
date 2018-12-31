@@ -111,7 +111,7 @@
                                     <div class="row">
                                         <div class="col-md-4">
                                             <figure>
-                                                <a href="#"><img src="./assets/img/_MG_0483.jpg" alt="" class="img-responsive"></a>
+                                                <a href="#"><img src="./assets/img/tarkwa.JPG" alt="" class="img-responsive"></a>
                                             </figure>
                                             <h5>Tarkwa</h5>
                                             <p>Lorem ipsum dolor sit amet, usu cu enim ceteros, vidit civibus imperdiet eu eos. Novum nihil soluta
