@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^(assets) - [L]
+RewriteRule ^(config) - [L]
+RewriteRule ^([^/]+)/? index.php?url=$1 [L,QSA]
