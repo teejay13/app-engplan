@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include'templates/partials/header.twig'%}
+</head>
+<body>
+    <div id="preloader">
+        <div data-loader="circle-side"></div>
+    </div><!-- /Preload -->
+    
+    <div class="layer"></div>
+    <!-- /Overlay mask -->
+    {% include'templates/partials/nav.twig'%}
+
+    <section class="main-container">
+        {% block content %}{% endblock %}
+    </section>
+
+
+    {% include'templates/partials/footer.twig'%}
+
+    {% include'templates/partials/scripts.twig'%}
+
+</body>
+</html>
