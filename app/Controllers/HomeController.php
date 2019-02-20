@@ -12,4 +12,9 @@ class HomeController extends Controller
     {
         return $this->container->view->render($response,'home.twig');
     }
+
+    public function about($request,$response)
+    {
+        return $this->container->view->render($response,'about.twig');
+    }
 }

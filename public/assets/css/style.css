@@ -2844,7 +2844,7 @@ ul.list_features li i {
 
 /*-------- 3.9 Position  breadcrumbs --------*/
 #position {
-	background-color: #002849;
+	background-color: #c0392b;
 	padding: 10px 0;
 	font-size: 13px;
 }
@@ -2867,7 +2867,7 @@ ul.list_features li i {
 #position ul {
 	margin: 0;
 	padding: 0;
-	color: #888;
+	color:rgba(180, 168, 168, 1);
 }
 
 #position ul li a {
